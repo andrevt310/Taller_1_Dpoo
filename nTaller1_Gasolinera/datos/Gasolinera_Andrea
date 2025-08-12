@@ -1,0 +1,13 @@
+tipo:ACPM:11000:370.0
+tipo:Extra:17000:200.0
+tipo:Corriente:16000:290.0
+tipo:Premium:15500:250.0
+surtidor:Isabel Torres Gaviria:ACPM:0.0:Extra:0.0:Corriente:0.0:Premium:0.0
+surtidor:Juan Torres Gaviria:ACPM:30.0:Extra:0.0:Corriente:0.0:Premium:0.0
+surtidor:Isabel Torres Gaviria:ACPM:0.0:Extra:0.0:Corriente:10.0:Premium:0.0
+surtidor:Melba Torres Gaviria:ACPM:0.0:Extra:0.0:Corriente:0.0:Premium:0.0
+empleado:Melba Torres Gaviria:0
+empleado:Antonio Vargas García:0
+empleado:Juan Torres Gaviria:330000
+empleado:Andrea Vargas Torres:0
+empleado:Isabel Torres Gaviria:160000
